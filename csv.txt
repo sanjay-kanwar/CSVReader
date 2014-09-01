@@ -1,0 +1,7 @@
+This is a test file.
+This file will read by our csv reader asychronously.
+Lets write few more line for the csv to read.
+Javascript is a emerging as a very powerful language.
+Node.js is a framework which we will use in later to create a 
+MEAP application. we will use MONGO as our DB.
+
